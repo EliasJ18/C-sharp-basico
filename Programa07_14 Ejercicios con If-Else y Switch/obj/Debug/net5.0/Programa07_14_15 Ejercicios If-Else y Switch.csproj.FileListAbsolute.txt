@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\bin\Debug\net5.0\Programa07_14_15 Ejercicios If-Else y Switch.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\bin\Debug\net5.0\Programa07_14_15 Ejercicios If-Else y Switch.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\bin\Debug\net5.0\Programa07_14_15 Ejercicios If-Else y Switch.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\bin\Debug\net5.0\Programa07_14_15 Ejercicios If-Else y Switch.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\bin\Debug\net5.0\Programa07_14_15 Ejercicios If-Else y Switch.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\bin\Debug\net5.0\Programa07_14_15 Ejercicios If-Else y Switch.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\obj\Debug\net5.0\Programa07_14_15 Ejercicios If-Else y Switch.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\obj\Debug\net5.0\Programa07_14_15 Ejercicios If-Else y Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\obj\Debug\net5.0\Programa07_14_15 Ejercicios If-Else y Switch.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\obj\Debug\net5.0\Programa07_14_15 Ejercicios If-Else y Switch.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\obj\Debug\net5.0\Programa07_14_15 Ejercicios If-Else y Switch.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\obj\Debug\net5.0\Programa07_14_15 Ejercicios If-Else y Switch.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\obj\Debug\net5.0\refint\Programa07_14_15 Ejercicios If-Else y Switch.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\obj\Debug\net5.0\Programa07_14_15 Ejercicios If-Else y Switch.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\obj\Debug\net5.0\Programa07_14_15 Ejercicios If-Else y Switch.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_14 Ejercicios con If-Else y Switch\obj\Debug\net5.0\ref\Programa07_14_15 Ejercicios If-Else y Switch.dll

@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\bin\Debug\net5.0\Programa07_02-03 Ejercicos if y temas vistos.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\bin\Debug\net5.0\Programa07_02-03 Ejercicos if y temas vistos.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\bin\Debug\net5.0\Programa07_02-03 Ejercicos if y temas vistos.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\bin\Debug\net5.0\Programa07_02-03 Ejercicos if y temas vistos.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\bin\Debug\net5.0\Programa07_02-03 Ejercicos if y temas vistos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\bin\Debug\net5.0\Programa07_02-03 Ejercicos if y temas vistos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\obj\Debug\net5.0\Programa07_02-03 Ejercicos if y temas vistos.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\obj\Debug\net5.0\Programa07_02-03 Ejercicos if y temas vistos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\obj\Debug\net5.0\Programa07_02-03 Ejercicos if y temas vistos.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\obj\Debug\net5.0\Programa07_02-03 Ejercicos if y temas vistos.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\obj\Debug\net5.0\Programa07_02-03 Ejercicos if y temas vistos.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\obj\Debug\net5.0\Programa07_02-03 Ejercicos if y temas vistos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\obj\Debug\net5.0\refint\Programa07_02-03 Ejercicos if y temas vistos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\obj\Debug\net5.0\Programa07_02-03 Ejercicos if y temas vistos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\obj\Debug\net5.0\Programa07_02-03 Ejercicos if y temas vistos.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_02-03 Ejercicos if y temas vistos\obj\Debug\net5.0\ref\Programa07_02-03 Ejercicos if y temas vistos.dll

@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\bin\Debug\net5.0\Programa06_04 Ejercicos Convert y ReadLine.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\bin\Debug\net5.0\Programa06_04 Ejercicos Convert y ReadLine.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\bin\Debug\net5.0\Programa06_04 Ejercicos Convert y ReadLine.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\bin\Debug\net5.0\Programa06_04 Ejercicos Convert y ReadLine.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\bin\Debug\net5.0\Programa06_04 Ejercicos Convert y ReadLine.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\bin\Debug\net5.0\Programa06_04 Ejercicos Convert y ReadLine.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\obj\Debug\net5.0\Programa06_04 Ejercicos Convert y ReadLine.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\obj\Debug\net5.0\Programa06_04 Ejercicos Convert y ReadLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\obj\Debug\net5.0\Programa06_04 Ejercicos Convert y ReadLine.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\obj\Debug\net5.0\Programa06_04 Ejercicos Convert y ReadLine.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\obj\Debug\net5.0\Programa06_04 Ejercicos Convert y ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\obj\Debug\net5.0\Programa06_04 Ejercicos Convert y ReadLine.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\obj\Debug\net5.0\refint\Programa06_04 Ejercicos Convert y ReadLine.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\obj\Debug\net5.0\Programa06_04 Ejercicos Convert y ReadLine.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\obj\Debug\net5.0\Programa06_04 Ejercicos Convert y ReadLine.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_04 Ejercicos Convert y ReadLine\obj\Debug\net5.0\ref\Programa06_04 Ejercicos Convert y ReadLine.dll

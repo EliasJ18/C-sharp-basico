@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\bin\Debug\net5.0\Programa04_01 Uso de Variables.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\bin\Debug\net5.0\Programa04_01 Uso de Variables.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\bin\Debug\net5.0\Programa04_01 Uso de Variables.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\bin\Debug\net5.0\Programa04_01 Uso de Variables.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\bin\Debug\net5.0\Programa04_01 Uso de Variables.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\bin\Debug\net5.0\Programa04_01 Uso de Variables.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\obj\Debug\net5.0\Programa04_01 Uso de Variables.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\obj\Debug\net5.0\Programa04_01 Uso de Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\obj\Debug\net5.0\Programa04_01 Uso de Variables.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\obj\Debug\net5.0\Programa04_01 Uso de Variables.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\obj\Debug\net5.0\Programa04_01 Uso de Variables.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\obj\Debug\net5.0\Programa04_01 Uso de Variables.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\obj\Debug\net5.0\refint\Programa04_01 Uso de Variables.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\obj\Debug\net5.0\Programa04_01 Uso de Variables.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\obj\Debug\net5.0\Programa04_01 Uso de Variables.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_01\obj\Debug\net5.0\ref\Programa04_01 Uso de Variables.dll

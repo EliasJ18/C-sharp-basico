@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\bin\Debug\net5.0\Programa07_10 Operador NOT.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\bin\Debug\net5.0\Programa07_10 Operador NOT.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\bin\Debug\net5.0\Programa07_10 Operador NOT.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\bin\Debug\net5.0\Programa07_10 Operador NOT.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\bin\Debug\net5.0\Programa07_10 Operador NOT.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\bin\Debug\net5.0\Programa07_10 Operador NOT.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\obj\Debug\net5.0\Programa07_10 Operador NOT.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\obj\Debug\net5.0\Programa07_10 Operador NOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\obj\Debug\net5.0\Programa07_10 Operador NOT.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\obj\Debug\net5.0\Programa07_10 Operador NOT.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\obj\Debug\net5.0\Programa07_10 Operador NOT.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\obj\Debug\net5.0\Programa07_10 Operador NOT.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\obj\Debug\net5.0\refint\Programa07_10 Operador NOT.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\obj\Debug\net5.0\Programa07_10 Operador NOT.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\obj\Debug\net5.0\Programa07_10 Operador NOT.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador NOT\obj\Debug\net5.0\ref\Programa07_10 Operador NOT.dll

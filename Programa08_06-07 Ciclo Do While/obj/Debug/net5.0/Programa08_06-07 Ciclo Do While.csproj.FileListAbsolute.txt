@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\bin\Debug\net5.0\Programa08_06-07 Ciclo Do While.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\bin\Debug\net5.0\Programa08_06-07 Ciclo Do While.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\bin\Debug\net5.0\Programa08_06-07 Ciclo Do While.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\bin\Debug\net5.0\Programa08_06-07 Ciclo Do While.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\bin\Debug\net5.0\Programa08_06-07 Ciclo Do While.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\bin\Debug\net5.0\Programa08_06-07 Ciclo Do While.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\obj\Debug\net5.0\Programa08_06-07 Ciclo Do While.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\obj\Debug\net5.0\Programa08_06-07 Ciclo Do While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\obj\Debug\net5.0\Programa08_06-07 Ciclo Do While.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\obj\Debug\net5.0\Programa08_06-07 Ciclo Do While.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\obj\Debug\net5.0\Programa08_06-07 Ciclo Do While.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\obj\Debug\net5.0\Programa08_06-07 Ciclo Do While.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\obj\Debug\net5.0\refint\Programa08_06-07 Ciclo Do While.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\obj\Debug\net5.0\Programa08_06-07 Ciclo Do While.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\obj\Debug\net5.0\Programa08_06-07 Ciclo Do While.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_06-07 Ciclo Do While\obj\Debug\net5.0\ref\Programa08_06-07 Ciclo Do While.dll

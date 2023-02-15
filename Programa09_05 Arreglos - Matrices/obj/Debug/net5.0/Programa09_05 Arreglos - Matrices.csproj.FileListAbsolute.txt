@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\bin\Debug\net5.0\Programa09_05 Arreglos - Matrices.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\bin\Debug\net5.0\Programa09_05 Arreglos - Matrices.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\bin\Debug\net5.0\Programa09_05 Arreglos - Matrices.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\bin\Debug\net5.0\Programa09_05 Arreglos - Matrices.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\bin\Debug\net5.0\Programa09_05 Arreglos - Matrices.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\bin\Debug\net5.0\Programa09_05 Arreglos - Matrices.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\obj\Debug\net5.0\Programa09_05 Arreglos - Matrices.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\obj\Debug\net5.0\Programa09_05 Arreglos - Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\obj\Debug\net5.0\Programa09_05 Arreglos - Matrices.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\obj\Debug\net5.0\Programa09_05 Arreglos - Matrices.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\obj\Debug\net5.0\Programa09_05 Arreglos - Matrices.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\obj\Debug\net5.0\Programa09_05 Arreglos - Matrices.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\obj\Debug\net5.0\refint\Programa09_05 Arreglos - Matrices.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\obj\Debug\net5.0\Programa09_05 Arreglos - Matrices.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\obj\Debug\net5.0\Programa09_05 Arreglos - Matrices.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_05 Arreglos - Matrices\obj\Debug\net5.0\ref\Programa09_05 Arreglos - Matrices.dll

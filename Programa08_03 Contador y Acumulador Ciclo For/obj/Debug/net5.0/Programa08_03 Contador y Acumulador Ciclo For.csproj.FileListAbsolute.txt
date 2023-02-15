@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\bin\Debug\net5.0\Programa08_03 Contador y Acumulador Ciclo For.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\bin\Debug\net5.0\Programa08_03 Contador y Acumulador Ciclo For.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\bin\Debug\net5.0\Programa08_03 Contador y Acumulador Ciclo For.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\bin\Debug\net5.0\Programa08_03 Contador y Acumulador Ciclo For.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\bin\Debug\net5.0\Programa08_03 Contador y Acumulador Ciclo For.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\bin\Debug\net5.0\Programa08_03 Contador y Acumulador Ciclo For.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\obj\Debug\net5.0\Programa08_03 Contador y Acumulador Ciclo For.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\obj\Debug\net5.0\Programa08_03 Contador y Acumulador Ciclo For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\obj\Debug\net5.0\Programa08_03 Contador y Acumulador Ciclo For.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\obj\Debug\net5.0\Programa08_03 Contador y Acumulador Ciclo For.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\obj\Debug\net5.0\Programa08_03 Contador y Acumulador Ciclo For.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\obj\Debug\net5.0\Programa08_03 Contador y Acumulador Ciclo For.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\obj\Debug\net5.0\refint\Programa08_03 Contador y Acumulador Ciclo For.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\obj\Debug\net5.0\Programa08_03 Contador y Acumulador Ciclo For.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\obj\Debug\net5.0\Programa08_03 Contador y Acumulador Ciclo For.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_03 Contador y Acumulador Ciclo For\obj\Debug\net5.0\ref\Programa08_03 Contador y Acumulador Ciclo For.dll

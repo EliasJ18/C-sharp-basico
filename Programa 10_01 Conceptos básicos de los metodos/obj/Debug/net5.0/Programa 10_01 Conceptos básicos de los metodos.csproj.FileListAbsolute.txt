@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\bin\Debug\net5.0\Programa 10_01 Conceptos básicos de los metodos.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\bin\Debug\net5.0\Programa 10_01 Conceptos básicos de los metodos.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\bin\Debug\net5.0\Programa 10_01 Conceptos básicos de los metodos.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\bin\Debug\net5.0\Programa 10_01 Conceptos básicos de los metodos.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\bin\Debug\net5.0\Programa 10_01 Conceptos básicos de los metodos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\bin\Debug\net5.0\Programa 10_01 Conceptos básicos de los metodos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\obj\Debug\net5.0\Programa 10_01 Conceptos básicos de los metodos.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\obj\Debug\net5.0\Programa 10_01 Conceptos básicos de los metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\obj\Debug\net5.0\Programa 10_01 Conceptos básicos de los metodos.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\obj\Debug\net5.0\Programa 10_01 Conceptos básicos de los metodos.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\obj\Debug\net5.0\Programa 10_01 Conceptos básicos de los metodos.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\obj\Debug\net5.0\Programa 10_01 Conceptos básicos de los metodos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\obj\Debug\net5.0\refint\Programa 10_01 Conceptos básicos de los metodos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\obj\Debug\net5.0\Programa 10_01 Conceptos básicos de los metodos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\obj\Debug\net5.0\Programa 10_01 Conceptos básicos de los metodos.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa 10_01 Conceptos básicos de los metodos\obj\Debug\net5.0\ref\Programa 10_01 Conceptos básicos de los metodos.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa07_09 Operador OR/1.0.0": {
+        "runtime": {
+          "Programa07_09 Operador OR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa07_09 Operador OR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

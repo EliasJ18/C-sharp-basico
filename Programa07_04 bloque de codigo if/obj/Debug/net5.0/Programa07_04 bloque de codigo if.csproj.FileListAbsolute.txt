@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\bin\Debug\net5.0\Programa07_04 bloque de codigo if.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\bin\Debug\net5.0\Programa07_04 bloque de codigo if.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\bin\Debug\net5.0\Programa07_04 bloque de codigo if.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\bin\Debug\net5.0\Programa07_04 bloque de codigo if.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\bin\Debug\net5.0\Programa07_04 bloque de codigo if.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\bin\Debug\net5.0\Programa07_04 bloque de codigo if.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\obj\Debug\net5.0\Programa07_04 bloque de codigo if.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\obj\Debug\net5.0\Programa07_04 bloque de codigo if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\obj\Debug\net5.0\Programa07_04 bloque de codigo if.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\obj\Debug\net5.0\Programa07_04 bloque de codigo if.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\obj\Debug\net5.0\Programa07_04 bloque de codigo if.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\obj\Debug\net5.0\Programa07_04 bloque de codigo if.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\obj\Debug\net5.0\refint\Programa07_04 bloque de codigo if.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\obj\Debug\net5.0\Programa07_04 bloque de codigo if.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\obj\Debug\net5.0\Programa07_04 bloque de codigo if.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_04 bloque de codigo if\obj\Debug\net5.0\ref\Programa07_04 bloque de codigo if.dll

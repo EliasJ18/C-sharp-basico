@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa11_02 Impresión de estructuras/1.0.0": {
+        "runtime": {
+          "Programa11_02 Impresión de estructuras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa11_02 Impresión de estructuras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\bin\Debug\net5.0\Programa08_01_02 Ciclo For.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\bin\Debug\net5.0\Programa08_01_02 Ciclo For.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\bin\Debug\net5.0\Programa08_01_02 Ciclo For.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\bin\Debug\net5.0\Programa08_01_02 Ciclo For.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\bin\Debug\net5.0\Programa08_01_02 Ciclo For.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\bin\Debug\net5.0\Programa08_01_02 Ciclo For.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\obj\Debug\net5.0\Programa08_01_02 Ciclo For.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\obj\Debug\net5.0\Programa08_01_02 Ciclo For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\obj\Debug\net5.0\Programa08_01_02 Ciclo For.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\obj\Debug\net5.0\Programa08_01_02 Ciclo For.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\obj\Debug\net5.0\Programa08_01_02 Ciclo For.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\obj\Debug\net5.0\Programa08_01_02 Ciclo For.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\obj\Debug\net5.0\refint\Programa08_01_02 Ciclo For.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\obj\Debug\net5.0\Programa08_01_02 Ciclo For.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\obj\Debug\net5.0\Programa08_01_02 Ciclo For.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_01_02 Ciclo For\obj\Debug\net5.0\ref\Programa08_01_02 Ciclo For.dll

@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\bin\Debug\net5.0\Programa09_06 Ejercicios con Ciclos y Arreglos.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\bin\Debug\net5.0\Programa09_06 Ejercicios con Ciclos y Arreglos.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\bin\Debug\net5.0\Programa09_06 Ejercicios con Ciclos y Arreglos.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\bin\Debug\net5.0\Programa09_06 Ejercicios con Ciclos y Arreglos.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\bin\Debug\net5.0\Programa09_06 Ejercicios con Ciclos y Arreglos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\bin\Debug\net5.0\Programa09_06 Ejercicios con Ciclos y Arreglos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\obj\Debug\net5.0\Programa09_06 Ejercicios con Ciclos y Arreglos.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\obj\Debug\net5.0\Programa09_06 Ejercicios con Ciclos y Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\obj\Debug\net5.0\Programa09_06 Ejercicios con Ciclos y Arreglos.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\obj\Debug\net5.0\Programa09_06 Ejercicios con Ciclos y Arreglos.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\obj\Debug\net5.0\Programa09_06 Ejercicios con Ciclos y Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\obj\Debug\net5.0\Programa09_06 Ejercicios con Ciclos y Arreglos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\obj\Debug\net5.0\refint\Programa09_06 Ejercicios con Ciclos y Arreglos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\obj\Debug\net5.0\Programa09_06 Ejercicios con Ciclos y Arreglos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\obj\Debug\net5.0\Programa09_06 Ejercicios con Ciclos y Arreglos.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa09_06 Ejercicios con Ciclos y Arreglos\obj\Debug\net5.0\ref\Programa09_06 Ejercicios con Ciclos y Arreglos.dll

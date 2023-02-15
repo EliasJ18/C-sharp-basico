@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\bin\Debug\net5.0\Programa04_02.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\bin\Debug\net5.0\Programa04_02.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\bin\Debug\net5.0\Programa04_02.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\bin\Debug\net5.0\Programa04_02.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\bin\Debug\net5.0\Programa04_02.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\bin\Debug\net5.0\Programa04_02.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\obj\Debug\net5.0\Programa04_02.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\obj\Debug\net5.0\Programa04_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\obj\Debug\net5.0\Programa04_02.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\obj\Debug\net5.0\Programa04_02.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\obj\Debug\net5.0\Programa04_02.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\obj\Debug\net5.0\Programa04_02.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\obj\Debug\net5.0\refint\Programa04_02.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\obj\Debug\net5.0\Programa04_02.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\obj\Debug\net5.0\Programa04_02.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa04_02\obj\Debug\net5.0\ref\Programa04_02.dll

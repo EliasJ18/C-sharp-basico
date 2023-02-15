@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\bin\Debug\net5.0\Programa08_08 Ciclo While.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\bin\Debug\net5.0\Programa08_08 Ciclo While.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\bin\Debug\net5.0\Programa08_08 Ciclo While.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\bin\Debug\net5.0\Programa08_08 Ciclo While.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\bin\Debug\net5.0\Programa08_08 Ciclo While.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\bin\Debug\net5.0\Programa08_08 Ciclo While.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\obj\Debug\net5.0\Programa08_08 Ciclo While.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\obj\Debug\net5.0\Programa08_08 Ciclo While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\obj\Debug\net5.0\Programa08_08 Ciclo While.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\obj\Debug\net5.0\Programa08_08 Ciclo While.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\obj\Debug\net5.0\Programa08_08 Ciclo While.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\obj\Debug\net5.0\Programa08_08 Ciclo While.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\obj\Debug\net5.0\refint\Programa08_08 Ciclo While.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\obj\Debug\net5.0\Programa08_08 Ciclo While.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\obj\Debug\net5.0\Programa08_08 Ciclo While.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_08 Ciclo While\obj\Debug\net5.0\ref\Programa08_08 Ciclo While.dll

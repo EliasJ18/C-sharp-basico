@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\bin\Debug\net5.0\Programa06_03 Ejercicios con ReadLine.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\bin\Debug\net5.0\Programa06_03 Ejercicios con ReadLine.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\bin\Debug\net5.0\Programa06_03 Ejercicios con ReadLine.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\bin\Debug\net5.0\Programa06_03 Ejercicios con ReadLine.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\bin\Debug\net5.0\Programa06_03 Ejercicios con ReadLine.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\bin\Debug\net5.0\Programa06_03 Ejercicios con ReadLine.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\obj\Debug\net5.0\Programa06_03 Ejercicios con ReadLine.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\obj\Debug\net5.0\Programa06_03 Ejercicios con ReadLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\obj\Debug\net5.0\Programa06_03 Ejercicios con ReadLine.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\obj\Debug\net5.0\Programa06_03 Ejercicios con ReadLine.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\obj\Debug\net5.0\Programa06_03 Ejercicios con ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\obj\Debug\net5.0\Programa06_03 Ejercicios con ReadLine.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\obj\Debug\net5.0\refint\Programa06_03 Ejercicios con ReadLine.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\obj\Debug\net5.0\Programa06_03 Ejercicios con ReadLine.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\obj\Debug\net5.0\Programa06_03 Ejercicios con ReadLine.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_03 Ejercicios con ReadLine\obj\Debug\net5.0\ref\Programa06_03 Ejercicios con ReadLine.dll

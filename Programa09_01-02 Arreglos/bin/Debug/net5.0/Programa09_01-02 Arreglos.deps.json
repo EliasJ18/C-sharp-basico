@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa09_01-02 Arreglos/1.0.0": {
+        "runtime": {
+          "Programa09_01-02 Arreglos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa09_01-02 Arreglos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

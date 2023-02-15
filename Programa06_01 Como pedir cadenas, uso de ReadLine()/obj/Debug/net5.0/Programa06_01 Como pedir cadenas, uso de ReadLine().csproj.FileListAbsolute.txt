@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\bin\Debug\net5.0\Programa06_01 Como pedir cadenas, uso de ReadLine().exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\bin\Debug\net5.0\Programa06_01 Como pedir cadenas, uso de ReadLine().deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\bin\Debug\net5.0\Programa06_01 Como pedir cadenas, uso de ReadLine().runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\bin\Debug\net5.0\Programa06_01 Como pedir cadenas, uso de ReadLine().runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\bin\Debug\net5.0\Programa06_01 Como pedir cadenas, uso de ReadLine().dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\bin\Debug\net5.0\Programa06_01 Como pedir cadenas, uso de ReadLine().pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\obj\Debug\net5.0\Programa06_01 Como pedir cadenas, uso de ReadLine().csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\obj\Debug\net5.0\Programa06_01 Como pedir cadenas, uso de ReadLine().GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\obj\Debug\net5.0\Programa06_01 Como pedir cadenas, uso de ReadLine().AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\obj\Debug\net5.0\Programa06_01 Como pedir cadenas, uso de ReadLine().AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\obj\Debug\net5.0\Programa06_01 Como pedir cadenas, uso de ReadLine().csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\obj\Debug\net5.0\Programa06_01 Como pedir cadenas, uso de ReadLine().dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\obj\Debug\net5.0\refint\Programa06_01 Como pedir cadenas, uso de ReadLine().dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\obj\Debug\net5.0\Programa06_01 Como pedir cadenas, uso de ReadLine().pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\obj\Debug\net5.0\Programa06_01 Como pedir cadenas, uso de ReadLine().genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa06_01 Como pedir cadenas, uso de ReadLine()\obj\Debug\net5.0\ref\Programa06_01 Como pedir cadenas, uso de ReadLine().dll

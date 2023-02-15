@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\bin\Debug\net5.0\Programa07_01 Condicional if y operadores relacionales.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\bin\Debug\net5.0\Programa07_01 Condicional if y operadores relacionales.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\bin\Debug\net5.0\Programa07_01 Condicional if y operadores relacionales.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\bin\Debug\net5.0\Programa07_01 Condicional if y operadores relacionales.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\bin\Debug\net5.0\Programa07_01 Condicional if y operadores relacionales.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\bin\Debug\net5.0\Programa07_01 Condicional if y operadores relacionales.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\obj\Debug\net5.0\Programa07_01 Condicional if y operadores relacionales.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\obj\Debug\net5.0\Programa07_01 Condicional if y operadores relacionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\obj\Debug\net5.0\Programa07_01 Condicional if y operadores relacionales.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\obj\Debug\net5.0\Programa07_01 Condicional if y operadores relacionales.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\obj\Debug\net5.0\Programa07_01 Condicional if y operadores relacionales.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\obj\Debug\net5.0\Programa07_01 Condicional if y operadores relacionales.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\obj\Debug\net5.0\refint\Programa07_01 Condicional if y operadores relacionales.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\obj\Debug\net5.0\Programa07_01 Condicional if y operadores relacionales.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\obj\Debug\net5.0\Programa07_01 Condicional if y operadores relacionales.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_01 Toma de decisiones if\obj\Debug\net5.0\ref\Programa07_01 Condicional if y operadores relacionales.dll

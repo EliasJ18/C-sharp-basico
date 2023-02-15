@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\bin\Debug\net5.0\Programa07_08 Operador AND.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\bin\Debug\net5.0\Programa07_08 Operador AND.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\bin\Debug\net5.0\Programa07_08 Operador AND.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\bin\Debug\net5.0\Programa07_08 Operador AND.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\bin\Debug\net5.0\Programa07_08 Operador AND.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\bin\Debug\net5.0\Programa07_08 Operador AND.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\obj\Debug\net5.0\Programa07_08 Operador AND.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\obj\Debug\net5.0\Programa07_08 Operador AND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\obj\Debug\net5.0\Programa07_08 Operador AND.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\obj\Debug\net5.0\Programa07_08 Operador AND.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\obj\Debug\net5.0\Programa07_08 Operador AND.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\obj\Debug\net5.0\Programa07_08 Operador AND.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\obj\Debug\net5.0\refint\Programa07_08 Operador AND.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\obj\Debug\net5.0\Programa07_08 Operador AND.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\obj\Debug\net5.0\Programa07_08 Operador AND.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_08 Operador AND\obj\Debug\net5.0\ref\Programa07_08 Operador AND.dll

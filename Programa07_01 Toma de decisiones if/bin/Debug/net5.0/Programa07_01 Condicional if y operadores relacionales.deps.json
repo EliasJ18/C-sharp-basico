@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa07_01 Condicional if y operadores relacionales/1.0.0": {
+        "runtime": {
+          "Programa07_01 Condicional if y operadores relacionales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa07_01 Condicional if y operadores relacionales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

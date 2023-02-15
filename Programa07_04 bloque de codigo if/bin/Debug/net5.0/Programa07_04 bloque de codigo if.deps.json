@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa07_04 bloque de codigo if/1.0.0": {
+        "runtime": {
+          "Programa07_04 bloque de codigo if.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa07_04 bloque de codigo if/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

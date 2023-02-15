@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa10_02 Metodos que solo realizan trabajo/1.0.0": {
+        "runtime": {
+          "Programa10_02 Metodos que solo realizan trabajo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa10_02 Metodos que solo realizan trabajo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

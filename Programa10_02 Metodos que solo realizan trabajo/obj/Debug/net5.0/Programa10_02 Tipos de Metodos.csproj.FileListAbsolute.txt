@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\bin\Debug\net5.0\Programa10_02 Tipos de Metodos.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\bin\Debug\net5.0\Programa10_02 Tipos de Metodos.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\bin\Debug\net5.0\Programa10_02 Tipos de Metodos.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\bin\Debug\net5.0\Programa10_02 Tipos de Metodos.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\bin\Debug\net5.0\Programa10_02 Tipos de Metodos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\bin\Debug\net5.0\Programa10_02 Tipos de Metodos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Tipos de Metodos.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Tipos de Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Tipos de Metodos.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Tipos de Metodos.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Tipos de Metodos.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Tipos de Metodos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\refint\Programa10_02 Tipos de Metodos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Tipos de Metodos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Tipos de Metodos.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\ref\Programa10_02 Tipos de Metodos.dll

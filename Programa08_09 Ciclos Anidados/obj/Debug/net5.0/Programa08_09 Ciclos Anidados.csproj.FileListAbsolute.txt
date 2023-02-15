@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\bin\Debug\net5.0\Programa08_09 Ciclos Anidados.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\bin\Debug\net5.0\Programa08_09 Ciclos Anidados.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\bin\Debug\net5.0\Programa08_09 Ciclos Anidados.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\bin\Debug\net5.0\Programa08_09 Ciclos Anidados.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\bin\Debug\net5.0\Programa08_09 Ciclos Anidados.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\bin\Debug\net5.0\Programa08_09 Ciclos Anidados.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\obj\Debug\net5.0\Programa08_09 Ciclos Anidados.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\obj\Debug\net5.0\Programa08_09 Ciclos Anidados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\obj\Debug\net5.0\Programa08_09 Ciclos Anidados.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\obj\Debug\net5.0\Programa08_09 Ciclos Anidados.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\obj\Debug\net5.0\Programa08_09 Ciclos Anidados.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\obj\Debug\net5.0\Programa08_09 Ciclos Anidados.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\obj\Debug\net5.0\refint\Programa08_09 Ciclos Anidados.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\obj\Debug\net5.0\Programa08_09 Ciclos Anidados.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\obj\Debug\net5.0\Programa08_09 Ciclos Anidados.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa08_09 Ciclos Anidados\obj\Debug\net5.0\ref\Programa08_09 Ciclos Anidados.dll

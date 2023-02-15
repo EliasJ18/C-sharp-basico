@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\bin\Debug\net5.0\Programa11_03 Arreglos de estructuras.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\bin\Debug\net5.0\Programa11_03 Arreglos de estructuras.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\bin\Debug\net5.0\Programa11_03 Arreglos de estructuras.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\bin\Debug\net5.0\Programa11_03 Arreglos de estructuras.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\bin\Debug\net5.0\Programa11_03 Arreglos de estructuras.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\bin\Debug\net5.0\Programa11_03 Arreglos de estructuras.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\obj\Debug\net5.0\Programa11_03 Arreglos de estructuras.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\obj\Debug\net5.0\Programa11_03 Arreglos de estructuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\obj\Debug\net5.0\Programa11_03 Arreglos de estructuras.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\obj\Debug\net5.0\Programa11_03 Arreglos de estructuras.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\obj\Debug\net5.0\Programa11_03 Arreglos de estructuras.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\obj\Debug\net5.0\Programa11_03 Arreglos de estructuras.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\obj\Debug\net5.0\refint\Programa11_03 Arreglos de estructuras.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\obj\Debug\net5.0\Programa11_03 Arreglos de estructuras.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\obj\Debug\net5.0\Programa11_03 Arreglos de estructuras.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_03 Arreglos de estructuras\obj\Debug\net5.0\ref\Programa11_03 Arreglos de estructuras.dll

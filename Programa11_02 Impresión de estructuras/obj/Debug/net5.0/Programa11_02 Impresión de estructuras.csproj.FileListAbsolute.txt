@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\bin\Debug\net5.0\Programa11_02 Impresión de estructuras.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\bin\Debug\net5.0\Programa11_02 Impresión de estructuras.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\bin\Debug\net5.0\Programa11_02 Impresión de estructuras.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\bin\Debug\net5.0\Programa11_02 Impresión de estructuras.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\bin\Debug\net5.0\Programa11_02 Impresión de estructuras.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\bin\Debug\net5.0\Programa11_02 Impresión de estructuras.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\obj\Debug\net5.0\Programa11_02 Impresión de estructuras.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\obj\Debug\net5.0\Programa11_02 Impresión de estructuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\obj\Debug\net5.0\Programa11_02 Impresión de estructuras.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\obj\Debug\net5.0\Programa11_02 Impresión de estructuras.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\obj\Debug\net5.0\Programa11_02 Impresión de estructuras.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\obj\Debug\net5.0\Programa11_02 Impresión de estructuras.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\obj\Debug\net5.0\refint\Programa11_02 Impresión de estructuras.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\obj\Debug\net5.0\Programa11_02 Impresión de estructuras.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\obj\Debug\net5.0\Programa11_02 Impresión de estructuras.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa11_02 Impresión de estructuras\obj\Debug\net5.0\ref\Programa11_02 Impresión de estructuras.dll

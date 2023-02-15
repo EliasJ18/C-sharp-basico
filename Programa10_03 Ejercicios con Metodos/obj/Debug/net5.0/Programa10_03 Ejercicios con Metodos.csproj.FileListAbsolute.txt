@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\bin\Debug\net5.0\Programa10_03 Ejercicios con Metodos.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\bin\Debug\net5.0\Programa10_03 Ejercicios con Metodos.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\bin\Debug\net5.0\Programa10_03 Ejercicios con Metodos.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\bin\Debug\net5.0\Programa10_03 Ejercicios con Metodos.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\bin\Debug\net5.0\Programa10_03 Ejercicios con Metodos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\bin\Debug\net5.0\Programa10_03 Ejercicios con Metodos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\obj\Debug\net5.0\Programa10_03 Ejercicios con Metodos.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\obj\Debug\net5.0\Programa10_03 Ejercicios con Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\obj\Debug\net5.0\Programa10_03 Ejercicios con Metodos.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\obj\Debug\net5.0\Programa10_03 Ejercicios con Metodos.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\obj\Debug\net5.0\Programa10_03 Ejercicios con Metodos.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\obj\Debug\net5.0\Programa10_03 Ejercicios con Metodos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\obj\Debug\net5.0\refint\Programa10_03 Ejercicios con Metodos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\obj\Debug\net5.0\Programa10_03 Ejercicios con Metodos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\obj\Debug\net5.0\Programa10_03 Ejercicios con Metodos.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_03 Ejercicios con Metodos\obj\Debug\net5.0\ref\Programa10_03 Ejercicios con Metodos.dll

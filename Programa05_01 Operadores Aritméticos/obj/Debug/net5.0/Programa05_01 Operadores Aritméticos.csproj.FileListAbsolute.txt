@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\bin\Debug\net5.0\Programa05_01 Operadores Aritméticos.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\bin\Debug\net5.0\Programa05_01 Operadores Aritméticos.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\bin\Debug\net5.0\Programa05_01 Operadores Aritméticos.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\bin\Debug\net5.0\Programa05_01 Operadores Aritméticos.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\bin\Debug\net5.0\Programa05_01 Operadores Aritméticos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\bin\Debug\net5.0\Programa05_01 Operadores Aritméticos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\obj\Debug\net5.0\Programa05_01 Operadores Aritméticos.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\obj\Debug\net5.0\Programa05_01 Operadores Aritméticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\obj\Debug\net5.0\Programa05_01 Operadores Aritméticos.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\obj\Debug\net5.0\Programa05_01 Operadores Aritméticos.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\obj\Debug\net5.0\Programa05_01 Operadores Aritméticos.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\obj\Debug\net5.0\Programa05_01 Operadores Aritméticos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\obj\Debug\net5.0\refint\Programa05_01 Operadores Aritméticos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\obj\Debug\net5.0\Programa05_01 Operadores Aritméticos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\obj\Debug\net5.0\Programa05_01 Operadores Aritméticos.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa05_01 Operadores Aritméticos\obj\Debug\net5.0\ref\Programa05_01 Operadores Aritméticos.dll

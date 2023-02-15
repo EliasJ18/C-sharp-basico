@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\bin\Debug\net5.0\Programa07_09 Operador OR.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\bin\Debug\net5.0\Programa07_09 Operador OR.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\bin\Debug\net5.0\Programa07_09 Operador OR.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\bin\Debug\net5.0\Programa07_09 Operador OR.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\bin\Debug\net5.0\Programa07_09 Operador OR.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\bin\Debug\net5.0\Programa07_09 Operador OR.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\obj\Debug\net5.0\Programa07_09 Operador OR.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\obj\Debug\net5.0\Programa07_09 Operador OR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\obj\Debug\net5.0\Programa07_09 Operador OR.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\obj\Debug\net5.0\Programa07_09 Operador OR.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\obj\Debug\net5.0\Programa07_09 Operador OR.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\obj\Debug\net5.0\Programa07_09 Operador OR.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\obj\Debug\net5.0\refint\Programa07_09 Operador OR.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\obj\Debug\net5.0\Programa07_09 Operador OR.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\obj\Debug\net5.0\Programa07_09 Operador OR.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa07_09 Operador OR\obj\Debug\net5.0\ref\Programa07_09 Operador OR.dll

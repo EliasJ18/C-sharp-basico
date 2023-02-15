@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa08_01_02 Ciclo For/1.0.0": {
+        "runtime": {
+          "Programa08_01_02 Ciclo For.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa08_01_02 Ciclo For/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

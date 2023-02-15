@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Metodos que solo realizan trabajo.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Metodos que solo realizan trabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Metodos que solo realizan trabajo.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Metodos que solo realizan trabajo.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Metodos que solo realizan trabajo.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\bin\Debug\net5.0\Programa10_02 Metodos que solo realizan trabajo.exe
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\bin\Debug\net5.0\Programa10_02 Metodos que solo realizan trabajo.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\bin\Debug\net5.0\Programa10_02 Metodos que solo realizan trabajo.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\bin\Debug\net5.0\Programa10_02 Metodos que solo realizan trabajo.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\bin\Debug\net5.0\Programa10_02 Metodos que solo realizan trabajo.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\bin\Debug\net5.0\Programa10_02 Metodos que solo realizan trabajo.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Metodos que solo realizan trabajo.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\refint\Programa10_02 Metodos que solo realizan trabajo.dll
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Metodos que solo realizan trabajo.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\Programa10_02 Metodos que solo realizan trabajo.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC#\Programa10_02 Metodos que solo realizan trabajo\obj\Debug\net5.0\ref\Programa10_02 Metodos que solo realizan trabajo.dll
